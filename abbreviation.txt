@@ -1,0 +1,16 @@
+ËõÐ´	È«³Æ	×¢ÊÍ
+PORT	Port Control and Interrupts	
+PDOR	 Port Data Output Register	
+PSOR	Port Set Output Register	
+PCOR	Port Clear Output Register	
+PTOR	 Port Toggle Output Register	
+PDIR	Port Data Input Register	
+PDDR	Port Data Direction Register	
+PIDR	Port Input Disable Register	
+SDK	software development kit	
+MDK	RealView MDK(Microcontroller Development kit)	
+SWV	Serial Wire Viewer	
+SOSC	system oscillator
+LPIT 	low-power programmalbe interrupt timer
+PLL	phase-locked loop
+SPLL	system PLL
