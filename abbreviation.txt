@@ -1,4 +1,4 @@
-ËõÐ´	È«³Æ	×¢ÊÍ
+abbreviation	explanation	comments
 PORT	Port Control and Interrupts	
 PDOR	 Port Data Output Register	
 PSOR	Port Set Output Register	
@@ -14,3 +14,11 @@ SOSC	system oscillator
 LPIT 	low-power programmalbe interrupt timer
 PLL	phase-locked loop
 SPLL	system PLL
+PCR	pin control register
+PCC 	Perihperal Clock Control
+SIM 	System intergration module
+SCG	System Clock Generator
+IRC	Internal clock references
+FIRC	Fast IRC
+SIRC	Slow IRC
+IOCON	I/O configuration register contents	
