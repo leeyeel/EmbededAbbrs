@@ -22,3 +22,48 @@ IRC	Internal clock references
 FIRC	Fast IRC
 SIRC	Slow IRC
 IOCON	I/O configuration register contents	
+MDIS	Module Disable
+FRZ	Freeze Enable
+RFEN	Rx FIFO Enable
+HALT	Halt FlexCAN
+NOTRDY	FlexCAN Not Ready
+SOFRST	Soft Reset
+FRZACK	Freeze Mode Acknowledge
+SUPV	Supervisor Mode
+WRNEN	Warning Interrrupt Enable
+IRMQ	Individual Rx Masking And Queue Enable
+DMA	DMA Enable
+AEN	Abort Enable
+CMU	Clock Monitoring Unit
+XTAL	External Crystal Oscillator
+PCS	Peripheral Clock Source Select
+DSP	DIgital Signal Processor
+FPU	Floating Point Unit
+MPU	Memory Protection Unit
+NVIC	Nested Vectored Interrupt Controller
+WIC	Wake-up Interrupt Controller
+DMA	Direct Memory Access
+NMI	Non-Maskable Interrupt
+SWD	Serial Wire Debug
+TPIU	Trace Port Interface Unit
+PMC	Power Management Controller
+CMP	High-speed Comparator
+PDB	Programmable Delay Block
+FTM	Flexible Timer
+RTC	Real-Time Clock
+LPTMR	Low-Power Timer
+PMU	Power Management and Mode Controllers
+ADC	Analog-toDigital Converter
+MTB	Micro Trace Buffer
+MCM	Miscellaneous Control Module
+eDMA	enhanced Direct Memory Access Controller
+EWM	External Watchdog Monitor
+LVD	Low Voltage Detect
+SMC	System Mode Controller
+POR	Power On Reset
+LPO	Low Power Oscillator
+PE	Protocol Engine
+CHI	Controller Host Interface
+BIU	Bus Interface Unit
+MCR	Module Configuration Register
+
