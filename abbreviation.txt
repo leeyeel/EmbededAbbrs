@@ -66,4 +66,10 @@ PE	Protocol Engine
 CHI	Controller Host Interface
 BIU	Bus Interface Unit
 MCR	Module Configuration Register
-
+GPIO	General-Purpose Input/Output
+EIM	Error Injection Module
+ERM	Error Reporting Module
+CRC	Cyclic Redundancy Check
+RCM	Reset Control Module
+LMEM	Local Memory Controller
+SDID	System Device Identification
