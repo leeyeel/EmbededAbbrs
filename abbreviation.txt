@@ -32,7 +32,6 @@ FRZACK	Freeze Mode Acknowledge
 SUPV	Supervisor Mode
 WRNEN	Warning Interrrupt Enable
 IRMQ	Individual Rx Masking And Queue Enable
-DMA	DMA Enable
 AEN	Abort Enable
 CMU	Clock Monitoring Unit
 XTAL	External Crystal Oscillator
@@ -73,3 +72,4 @@ CRC	Cyclic Redundancy Check
 RCM	Reset Control Module
 LMEM	Local Memory Controller
 SDID	System Device Identification
+SMB	Serial Message Buffer
