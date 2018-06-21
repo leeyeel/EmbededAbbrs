@@ -61,6 +61,7 @@ LVD	Low Voltage Detect
 SMC	System Mode Controller
 POR	Power On Reset
 LPO	Low Power Oscillator
+
 PE	Protocol Engine
 CHI	Controller Host Interface
 BIU	Bus Interface Unit
@@ -73,3 +74,5 @@ RCM	Reset Control Module
 LMEM	Local Memory Controller
 SDID	System Device Identification
 SMB	Serial Message Buffer
+RGM	Reset Generation Module
+
