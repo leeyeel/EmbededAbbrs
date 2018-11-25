@@ -33,4 +33,15 @@
 |DEM		|Diagnostic Event Manager|		|
 |SRS		|Software Requirements Specifications|	|
 |AUX		|Auxiliary		|		|
+|TSC		|Technical Safety Concept|		|
+|FSC		|Functional Safety Concept|		|
+|ASIL		|Automotive Safety Intergrity Level|	|
+|DC		|Diagnostic Coverage	|		|
+|ECC		|Error Correction Code	|		|
+|EDC		|Error Detection Code	|		|
+|HARA		|Hazard Analysis and Risk Assessment|	|
+|SEooC		|Safety Element out of Context|		|
+|SWC		|Software Component	|		|
+|URI		|Uniform Resource Identifier|		|
+|URL		|Uniform Resource Locator|		|
 
